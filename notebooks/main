@@ -1,0 +1,15 @@
+# Traffic Volume Prediction
+
+## Objective
+To analyze historical traffic data and build a machine learning model
+to predict traffic volume.
+
+## Steps Covered
+1. Data loading and exploration
+2. Data cleaning and preprocessing
+3. Feature engineering
+4. Model training and evaluation
+5. Prediction
+
+## Tools Used
+Python, Pandas, NumPy, Matplotlib, Scikit-learn
